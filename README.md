@@ -1,4 +1,4 @@
-# iswarya180506
+# DYNAMIC IMAGE SLIDER
 Description
 
 The Dynamic Image Slider is an interactive web component that allows users to automatically or manually browse through a collection of images in a smooth, visually appealing way. It dynamically loads images from a folder, database, or API, and displays them with transition effects (like fade, slide, zoom, etc.).
